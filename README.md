@@ -97,6 +97,14 @@ These third parties may have access to your Personal Information but are obligat
 - Google Analytics for Firebase  
 - Firebase Crashlytics  
 
+
+##  Advertising
+
+We may display ads in the app for free users.
+
+- Ads may be served by third-party ad networks  
+- These networks may use device data for ad personalization  
+
 ---
 
 ## Data Storage and Security
