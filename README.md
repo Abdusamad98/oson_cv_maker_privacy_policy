@@ -2,136 +2,148 @@
 
 **Last updated:** May 2026  
 
-Resumio – CV Maker ("we", "our", or "us") respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
+Resumio – CV Maker ("we", "our", or "us") is committed to protecting your privacy. This SERVICE is provided at no cost and is intended for use as is.
+
+This page is used to inform users regarding our policies with the collection, use, and disclosure of Personal Information if anyone decides to use our Service.
+
+By using our Service, you agree to the collection and use of information in accordance with this Privacy Policy.
 
 ---
 
-## 1. Information We Collect
+## Information Collection and Use
 
-We may collect the following types of information:
+For a better experience, while using our Service, we may require you to provide certain personally identifiable information, including but not limited to:
 
-### Personal Information
-- Name (if provided via sign-in)
-- Email address (Google or Apple Sign-In)
+- Name (via Google or Apple Sign-In)
+- Email address
 - Profile information (optional)
 
-### Resume Data
-- Information you enter in the app such as:
-  - Education
-  - Work experience
-  - Skills
-  - Contact details
+Additionally, you may provide resume-related data such as:
+- Education
+- Work experience
+- Skills
+- Contact details
 
-This data is used only to generate your CV and improve your experience.
-
-### Usage Data
-- App interactions
-- Feature usage
-- Crash reports and performance data
+This information is used solely to generate and manage your CVs.
 
 ---
 
-## 2. How We Use Your Information
+## Authentication
 
-We use collected data to:
-
-- Provide and improve app functionality  
-- Generate CVs and PDF documents  
-- Save and manage your resumes  
-- Enable account-based features (login, premium access)  
-- Improve user experience and app performance  
-
----
-
-## 3. Authentication
-
-We allow users to sign in using:
+Users may sign in using:
 
 - Google Sign-In  
 - Apple Sign-In  
 
-If you do not sign in:
+If you choose not to sign in:
 - You can still use the app as a free user  
-- Your premium status will remain **inactive (`isPremium = false`)**  
+- Premium features will remain unavailable (`isPremium = false`)
 
 ---
 
-## 4. Premium Features
+## Premium Features
 
-Our app offers both free and premium features:
+Resumio offers both free and premium features.
 
 - Free users have limited access  
-- Premium users unlock additional features  
+- Premium users can unlock additional features  
 
-Premium status is stored in our database (`isPremium` field).
+Premium status is managed using a field (`isPremium`) in our system.
 
-> Note: Payments may not yet be active. Premium features may be introduced in future updates.
+> Note: Payment functionality may be introduced in future updates.
 
 ---
 
-## 5. Data Storage & Security
 
-We take reasonable measures to protect your data:
+## Log Data
 
-- Secure cloud storage (e.g., Firebase or similar)
-- Encrypted connections (HTTPS)
-- Access control mechanisms
+We do not directly collect detailed device or network information.
+
+However, third-party services used in the app (such as Firebase and AdMob) may automatically collect certain technical information, including:
+
+- Device information  
+- App usage data  
+- Crash logs  
+
+This information is used for improving app performance and user experience.
+
+---
+
+## Cookies
+
+This Service does not use cookies directly.
+
+However, third-party services may use cookies or similar technologies to collect information and improve their services.
+
+You have the option to accept or refuse these cookies through your device settings.
+
+---
+
+## Third-Party Service Providers
+
+We may employ third-party companies and services for the following purposes:
+
+- To facilitate our Service  
+- To provide the Service on our behalf  
+- To perform Service-related services  
+- To analyze how our Service is used  
+
+These third parties may have access to your Personal Information but are obligated not to use it for any other purpose.
+
+### Third-party services used:
+
+- Google Play Services  
+- Google AdMob  
+- Google Analytics for Firebase  
+- Firebase Crashlytics  
+
+---
+
+## Data Storage and Security
+
+We value your trust in providing your Personal Information.
+
+We use commercially acceptable means to protect your data, including:
+
+- Secure cloud storage (e.g., Firebase)
+- Encrypted communication (HTTPS)
 
 However, no method of transmission over the Internet is 100% secure.
 
 ---
 
-## 6. Third-Party Services
+## Links to Other Sites
 
-We may use third-party services such as:
+This Service may contain links to external sites.
 
-- Google Firebase (authentication, database, analytics)
-- Google Play Services
-- Apple Sign-In
+We are not responsible for the content, privacy policies, or practices of any third-party websites.
 
-These services may collect information in accordance with their own privacy policies.
+We recommend reviewing their privacy policies separately.
 
 ---
 
-## 7. Advertising
+## Children’s Privacy
 
-We may display ads in the app for free users.
+This Service is not intended for children under the age of 13.
 
-- Ads may be served by third-party ad networks  
-- These networks may use device data for ad personalization  
+We do not knowingly collect personal information from children under 13.
 
----
-
-## 8. User Rights
-
-You have the right to:
-
-- Access your data  
-- Update or delete your data  
-- Stop using the app at any time  
-
-To request data deletion, please contact us.
+If we discover that a child has provided personal data, we will delete it immediately.
 
 ---
 
-## 9. Children’s Privacy
+## Changes to This Privacy Policy
 
-This app is not intended for children under the age of 13.
+We may update our Privacy Policy from time to time.
 
-We do not knowingly collect personal data from children.
+We advise users to review this page periodically for any changes.
 
----
-
-## 10. Changes to This Policy
-
-We may update this Privacy Policy from time to time.
-
-Any changes will be reflected with a new "Last updated" date.
+Changes are effective immediately after they are posted on this page.
 
 ---
 
-## 11. Contact Us
+## Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us:
+If you have any questions or suggestions about this Privacy Policy, feel free to contact us:
 
-**Email:** mobilchi4862@gmail.com
+📧 mobilchi4862@gmail.com
