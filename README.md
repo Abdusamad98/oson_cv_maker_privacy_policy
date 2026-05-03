@@ -120,6 +120,20 @@ However, no method of transmission over the Internet is 100% secure.
 
 ---
 
+# Account Deletion Request
+
+To delete your account and associated data from Resumio – CV Maker:
+
+Please email us at:
+
+📧 mobilchi4862@gmail.com
+
+Include:
+- Your Google email (or Apple email)
+- Request: "Delete my account"
+
+We will delete your data within a reasonable time frame.
+
 ## Links to Other Sites
 
 This Service may contain links to external sites.
